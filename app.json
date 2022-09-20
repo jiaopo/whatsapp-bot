@@ -74,7 +74,7 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Raganork~065b09b5208b2f2aa460b08a51ffee09:75315177646151366d56773d",
+            "description": "Raganork~bed00bd1c220c41d77d9651318c7ad08:3468703978315a37637a383d",
             "required": true
              
         }
